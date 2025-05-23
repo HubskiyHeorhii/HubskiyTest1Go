@@ -1,1 +1,2 @@
-# HubskiyTest1Go
+cd HubskiyTest1Go
+go run main.go
